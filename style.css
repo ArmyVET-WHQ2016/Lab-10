@@ -1,107 +1,81 @@
-
-
-
 header {
-display: ;
-width: 900px ;
-margin: auto;
-padding:0px;
-
-header >
-
+    /* display: ; */
+    width: 900px;
+    margin: auto;
+    padding: 0px;
+}
 
 
-ul {
+/* header > */
+
+header ul li {
     list-style-type: none;
+    display: inline;
 }
 
 main {
-    display: ;
-    width: 900px; ;
-    margin:auto;
-    padding:0px;
-   
-
-}
-
-
-
-}
-
-
-
-
-
- #blogId {
-    display:;
-    width: ;
-    margin: ;
-    padding: 0px ;
-
-
- }
-
-
- #ingredientImgList {
-
-display:;
-width: ;
-margin: auto ;
-margin-right: auto;
-background-image: url('../assets/hr-img.png');
-padding: 0px;
-
- }
-
-
- #typeOfDesert  {
-    display: ;
-    width: ;
+    /* display: ; */
+    width: 900px;
+    ;
     margin: auto;
-    margin-top: 28px ;
+    padding: 0px;
+}
+
+#blogId {
+    /* display:;
+    width: ;
+    margin: ; */
+    padding: 0px;
+}
+
+#ingredientImgList {
+    /* display:;
+    width: ; */
+    margin: auto;
+    margin-right: auto;
+    background-image: url('../assets/hr-img.png');
+    padding: 0px;
+}
+
+#typeOfDesert {
+    /* display: ;
+    width: ; */
+    margin: auto;
+    margin-top: 28px;
     margin-bottom: 56px;
     font-size: larger;
     font-weight: 200;
-    padding: 0px ;
-
- }
-
-#desert {
-margin: auto;
-margin-top: 5px;
-margin-bottom: 0px;
-
-
+    padding: 0px;
 }
 
- #portrait  {
-    display: ;
+#desert {
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+#portrait {
+    /* display: ;
     width: ;
-    margin: ;
+    margin: ; */
     padding: 0px;
+}
 
- }
-
-
- #desertImage  {
-    display: ;
+#desertImage {
+    /* display: ;
     width: ;
-    margin: ;
+    margin: ; */
     font-size: large;
-    padding: 0px ;
+    padding: 0px;
+}
 
- }
-
-
- #whatToDoGuide  {
-    display: ;
+#whatToDoGuide {
+    /* display: ;
     width: ;
-    margin: ;
+    margin: ; */
     font-size: smaller;
     padding: 0px;
-
- }
- 
+}
 
 #whatIsNeeded {
     display: flex;
@@ -109,48 +83,39 @@ margin-bottom: 0px;
     font-size: small;
 }
 
-
-
- #blogger {
-    display: ;
+#blogger {
+    /* display: ;
     width: ;
-    margin: ;
+    margin: ; */
     font-size: x-small;
     padding: 0px;
- }
+}
 
- #aboutMe  {
-
-    display: ;
+#aboutMe {
+    /* display: ;
     width: ;
-    margin: ;
+    margin: ; */
     padding: 0px;
- }
+}
 
-
- #footer{
-    display: 
-    width: ;
+#footer {
+    /* display:  */
+    /* width: ;
     margin: ;
-    padding: 0px;
- }
+    padding: 0px; */
+}
 
-
- .subtitle {
-    display: ;
-    width: ;
+.subtitle {
+    /* display: ;
+    width: ; */
     margin: auto;
     margin-top: 4px;
     margin-bottom: 0px;
     font-size: xx-small;
     padding: 0px;
+}
 
- }
-
- #print {
-
+#print {
     display: flex;
     margin: auto;
- }
-
-
+}
