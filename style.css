@@ -1,1 +1,142 @@
 
+
+
+header {
+display: ;
+width: 900px ;
+margin: auto;
+padding:0px;
+
+}
+
+main {
+    display: ;
+    width: 900px; ;
+    margin:auto;
+    padding:0px;
+   
+
+}
+
+
+ #blogId {
+    display:;
+    width: ;
+    margin: ;
+    padding: 0px ;
+
+ }
+
+
+ #ingredientImgList {
+
+display:;
+width: ;
+margin: auto ;
+margin-right: auto;
+background-image: url('../assets/hr-img.png');
+padding: 0px;
+
+ }
+
+
+ #typeOfDesert  {
+    display: ;
+    width: ;
+    margin: auto;
+    margin-top: 28px ;
+    margin-bottom: 56px;
+    font-size: larger;
+    font-weight: 200;
+    padding: 0px ;
+
+ }
+
+#desert {
+margin: auto;
+margin-top: 5px;
+margin-bottom: 0px;
+
+
+}
+
+ #portrait  {
+    display: ;
+    width: ;
+    margin: ;
+    padding: 0px;
+
+ }
+
+
+ #desertImage  {
+    display: ;
+    width: ;
+    margin: ;
+    font-size: large;
+    padding: 0px ;
+
+ }
+
+
+ #whatToDoGuide  {
+    display: ;
+    width: ;
+    margin: ;
+    font-size: smaller;
+    padding: 0px;
+
+ }
+ 
+
+#whatIsNeeded {
+    display: flex;
+    margin: auto;
+    font-size: small;
+}
+
+
+
+ #blogger {
+    display: ;
+    width: ;
+    margin: ;
+    font-size: x-small;
+    padding: 0px;
+ }
+
+ #aboutMe  {
+
+    display: ;
+    width: ;
+    margin: ;
+    padding: 0px;
+ }
+
+
+ #footer{
+    display: 
+    width: ;
+    margin: ;
+    padding: 0px;
+ }
+
+
+ .subtitle {
+    display: ;
+    width: ;
+    margin: auto;
+    margin-top: 4px;
+    margin-bottom: 0px;
+    font-size: xx-small;
+    padding: 0px;
+
+ }
+
+ #print {
+
+    display: flex;
+    margin: auto;
+ }
+
+
