@@ -7,6 +7,12 @@ width: 900px ;
 margin: auto;
 padding:0px;
 
+header >
+
+
+
+ul {
+    list-style-type: none;
 }
 
 main {
@@ -19,11 +25,19 @@ main {
 }
 
 
+
+}
+
+
+
+
+
  #blogId {
     display:;
     width: ;
     margin: ;
     padding: 0px ;
+
 
  }
 
